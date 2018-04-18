@@ -1,0 +1,4 @@
+To fix: 
+
+question 7: dunamic text on a box
+question 9: link the buttons created in Initialize->startSceneMenu.as to GameScene.as
